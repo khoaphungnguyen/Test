@@ -10,6 +10,10 @@ gem 'sqlite3', '~> 1.4'
 gem 'carrierwave'
 gem 'mini_magick'
 gem 'devise'
+gem 'gravtastic'
+gem 'bootstrap', '~> 4.3.1'
+gem 'activeadmin', '~> 2.4'
+gem 'inherited_resources', '~> 1.11'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
